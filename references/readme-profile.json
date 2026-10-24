@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 225｜Office-Object Hand-Drawn Collage: retells the meaning and mood of a photo as a hand-made visual-diary collage built mainly from everyday office things — sticky notes, folders, paper clips, tape, rulers, staples, receipts, envelopes, labels, pens, stamps, paper corners and memo scraps — used as metaphors rather than decoration, mixed with a little hand-drawn subject, fine line, watercolour and coloured pencil, with visible cut edges and paper texture, light colours lifted from the photo on pale paper, generous white space and a few handwritten notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-225 or asks for stationery collage, sticky-note and paper-clip visual diary or office-object editorial illustration from a photo.",
+  "short_description": "办公物件手绘拼贴：用便签、回形针、胶带和纸片把照片写成一页视觉日记",
+  "zh-CN": {
+    "name": "办公物件手绘拼贴",
+    "tagline": "用便签、回形针、胶带和纸片，把照片重新写成一页视觉日记。",
+    "look": "画面主要用办公室里常见的东西拼成：便签、文件夹、回形针、胶带、尺子、订书针、票据、信封、标签、笔、印章和纸张边角。它们不只是装饰，而是借来比喻照片里的主体、关系和情绪，再配一点手绘主体、细线描、水彩、彩铅和手写痕迹。纸片保留剪贴边和纸纹，主体和物件错落、偏心，四周留出大片空白。颜色取照片里有记忆点的几种，提亮去灰，铺在浅纸色上。留白或纸片边缘写着几句短短的注记。",
+    "traits": ["便签回形针", "物件转喻", "手绘拼贴", "混合媒介", "视觉日记"],
+    "good": [
+      "有一点情绪或故事的日常瞬间：加班后的窗外、一次出差、一个人吃午饭",
+      "工作、学习和生活的场景：书桌、咖啡馆、通勤路上、会议间隙",
+      "想做文章配图、编辑插画或个人视觉日记的照片"
+    ],
+    "poor": [
+      "需要原样还原的照片：证件照、商品图、建筑记录",
+      "想要宏大、庄重气氛的风景或仪式场面，办公小物会让它变得轻松日常",
+      "想要满版贴纸、商业手帐模板或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Office-Object Hand-Drawn Collage",
+    "tagline": "Retells a photo as a visual diary page made of sticky notes, paper clips, tape and paper scraps.",
+    "look": "The picture is built mostly from familiar office things: sticky notes, folders, paper clips, tape, rulers, staples, receipts, envelopes, labels, pens, stamps and torn paper corners. They are not decoration but stand in for the subject, relationships and mood of your photo, joined by a little hand-drawn subject, fine linework, watercolour, coloured pencil and handwriting. Paper pieces keep their cut edges and texture, the subject and objects are staggered and off-centre, and wide white space is left around them. Colours are the memorable ones from the photo, brightened and cleaned, laid on pale paper. A few short notes are written in the white space or along the paper edges.",
+    "traits": ["Sticky notes and clips", "Objects as metaphor", "Hand-drawn collage", "Mixed media", "Visual diary"],
+    "good": [
+      "Everyday moments with a little mood or story: the view after working late, a business trip, lunch alone",
+      "Scenes from work, study and daily life: a desk, a café, the commute, a break between meetings",
+      "Photos you want as an article image, an editorial illustration or a personal visual diary"
+    ],
+    "poor": [
+      "Photos that need to be reproduced faithfully: ID photos, product shots, architectural records",
+      "Grand or solemn landscapes and ceremonies, which office trinkets make feel casual",
+      "Requests for wall-to-wall stickers, commercial planner templates or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "事務用品の手描きコラージュ",
+    "tagline": "付箋、クリップ、テープ、紙片で、写真を一頁の視覚日記に書き直します。",
+    "look": "画面はおもにオフィスでおなじみの物でできています。付箋、フォルダー、クリップ、テープ、定規、ホチキスの針、レシート、封筒、ラベル、ペン、スタンプ、紙の端切れ。それらは飾りではなく、写真の主役や関係、気分をたとえるために使われ、少しの手描きの主役、細い線描、水彩、色鉛筆、手書きの跡が加わります。紙片には切り口や紙の目が残り、主役と物はずらして片寄せに置かれ、まわりに広い余白が取られます。色は写真で印象的な数色を明るく澄ませ、淡い紙色の上に置きます。余白や紙片の縁に短いメモがいくつか書かれます。",
+    "traits": ["付箋とクリップ", "物によるたとえ", "手描きコラージュ", "ミクストメディア", "視覚日記"],
+    "good": [
+      "少し気分や物語のある日常：残業後の窓の外、出張、ひとりのランチ",
+      "仕事や勉強、暮らしの場面：机、カフェ、通勤路、会議の合間",
+      "記事の挿絵、編集イラスト、個人の視覚日記にしたい写真"
+    ],
+    "poor": [
+      "そのまま再現すべき写真：証明写真、商品写真、建築の記録",
+      "壮大で厳かな風景や儀式（事務用品が軽い日常の雰囲気にしてしまいます）",
+      "シールで埋め尽くす、市販の手帳テンプレート、アニメ風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "사무용품 손그림 콜라주",
+    "tagline": "메모지, 클립, 테이프, 종이 조각으로 사진을 한 페이지의 시각 일기로 다시 씁니다.",
+    "look": "화면은 주로 사무실에서 흔히 보는 물건으로 짜입니다. 메모지, 파일 폴더, 클립, 테이프, 자, 스테이플러 심, 영수증, 봉투, 라벨, 펜, 도장, 종이 귀퉁이. 이것들은 장식이 아니라 사진 속 주인공과 관계, 감정을 빗대는 데 쓰이고, 여기에 약간의 손그림 주인공, 가는 선묘, 수채, 색연필, 손글씨 흔적이 더해집니다. 종이 조각에는 오린 가장자리와 종이결이 남고, 주인공과 물건은 엇갈리게 한쪽으로 놓이며 주변에 넓은 여백을 둡니다. 색은 사진에서 기억에 남는 몇 가지를 밝고 맑게 다듬어 옅은 종이색 위에 얹습니다. 여백이나 종이 가장자리에 짧은 메모 몇 줄이 적힙니다.",
+    "traits": ["메모지와 클립", "사물 은유", "손그림 콜라주", "혼합 재료", "시각 일기"],
+    "good": [
+      "작은 감정이나 이야기가 있는 일상: 야근 후 창밖, 출장길, 혼자 먹는 점심",
+      "일, 공부, 생활의 장면: 책상, 카페, 출근길, 회의 사이 쉬는 시간",
+      "글 삽화, 에디토리얼 일러스트, 개인 시각 일기로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "그대로 재현해야 하는 사진: 증명사진, 제품 사진, 건축 기록",
+      "웅장하거나 엄숙한 풍경과 의식(사무용품이 가벼운 일상 분위기로 바꿔 버립니다)",
+      "스티커로 가득 채우거나 상업 다이어리 템플릿, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج يدوي من أدوات المكتب",
+    "tagline": "يعيد سرد الصورة صفحةً من يوميات بصرية مصنوعة من ورق الملاحظات والمشابك والشريط اللاصق وقصاصات الورق.",
+    "look": "تُبنى الصورة أساساً من أشياء مكتبية مألوفة: أوراق ملاحظات لاصقة، ملفات، مشابك ورق، شريط لاصق، مساطر، دبابيس تدبيس، إيصالات، أظرف، بطاقات، أقلام، أختام، وزوايا ورق ممزقة. ليست زينة، بل تقوم مقام العنصر الرئيسي وعلاقاته ومزاجه في صورتك، وينضم إليها قليل من الرسم اليدوي والخطوط الرفيعة والألوان المائية والأقلام الملونة وخط اليد. تحتفظ القصاصات بحوافها المقصوصة وملمسها، ويتوزع العنصر والأشياء بتدرّج بعيداً عن المركز، مع فراغ أبيض واسع حولها. الألوان هي أبرز ألوان الصورة بعد تفتيحها وتنقيتها، على ورق فاتح. وتُكتب ملاحظات قصيرة قليلة في الفراغ أو على حواف الورق.",
+    "traits": ["ملاحظات لاصقة ومشابك", "الأشياء استعارةً", "كولاج مرسوم باليد", "وسائط مختلطة", "يوميات بصرية"],
+    "good": [
+      "لحظات يومية فيها مزاج أو حكاية صغيرة: المنظر بعد عمل متأخر، رحلة عمل، غداء منفرد",
+      "مشاهد من العمل والدراسة والحياة: مكتب، مقهى، طريق التنقل، استراحة بين اجتماعين",
+      "صور تريدها رسماً لمقال أو رسماً تحريرياً أو صفحة من يوميات بصرية شخصية"
+    ],
+    "poor": [
+      "صور يجب نقلها بأمانة: صور الهوية، صور المنتجات، التوثيق المعماري",
+      "مناظر أو مراسم مهيبة جليلة، إذ تمنحها أدوات المكتب طابعاً يومياً خفيفاً",
+      "طلب ملصقات تملأ الصفحة أو قوالب دفاتر تجارية أو مظهر كرتوني"
+    ]
+  }
+}

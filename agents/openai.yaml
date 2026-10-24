@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 225"
-  short_description: "办公物件手绘拼贴：上半保留原照，下半用便签、回形针与纸片转喻原图精神"
-  default_prompt: "Use $xxd-panel-225 to transform my photograph following the complete canonical source brief."
+  short_description: "办公物件手绘拼贴：用便签、回形针、胶带和纸片把照片写成一页视觉日记"
+  default_prompt: "Use $xxd-panel-225 to turn my photo into Office-Object Hand-Drawn Collage artwork."

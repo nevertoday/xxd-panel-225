@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-225
-description: "Create XXD Panel 225 raster artwork: a faithful photograph paired with a hand-drawn mixed-media collage that retells the source through office objects, paper scraps, sparse handwriting and abundant intentional whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-225 or asks for this office-object visual-diary collage style."
+description: "XXD Panel 225｜Office-Object Hand-Drawn Collage: retells the meaning and mood of a photo as a hand-made visual-diary collage built mainly from everyday office things — sticky notes, folders, paper clips, tape, rulers, staples, receipts, envelopes, labels, pens, stamps, paper corners and memo scraps — used as metaphors rather than decoration, mixed with a little hand-drawn subject, fine line, watercolour and coloured pencil, with visible cut edges and paper texture, light colours lifted from the photo on pale paper, generous white space and a few handwritten notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-225 or asks for stationery collage, sticky-note and paper-clip visual diary or office-object editorial illustration from a photo."
 ---
 
 # XXD Panel 225
